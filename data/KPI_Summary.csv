@@ -1,0 +1,16 @@
+KPI,Value
+Overall Churn Rate,20.37%
+Total Customers,10000
+Total Churned,2037
+Total Retained,7963
+High Value Churn Rate,25.23%
+High Value Customers,4799
+High Value Churned,1211
+Balance at Risk (EUR),"€159,489,691.00"
+Germany Churn Rate,32.44%
+France Churn Rate,16.15%
+Spain Churn Rate,16.67%
+Active Member Churn Rate,14.27%
+Inactive Member Churn Rate,26.85%
+Engagement Gap,12.58%
+Age 46-60 Churn Rate,51.12%

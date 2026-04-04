@@ -382,4 +382,4 @@ display_df = filtered[filtered['Exited'] == 1] if show_churned else filtered
 st.dataframe(display_df.head(500), use_container_width=True)
 
 st.markdown("---")
-st.markdown("**European Central Bank** | Customer Segmentation & Churn Analytics | 2025")
+st.markdown("**European Central Bank** | Customer Segmentation & Churn Analytics | 2026")

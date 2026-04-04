@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 
 # ── Page Configuration ────────────────────────
 st.set_page_config(
-    page_title="Bank Churn Analytics",
+    page_title="Customer Segmentation & Churn Pattern Analytics in European Banking",
     page_icon="🏦",
     layout="wide"
 )
